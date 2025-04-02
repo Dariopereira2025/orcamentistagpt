@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/home/lino/Área de Trabalho/Estudos_IA_Software/dap/test_git_gcp_assist/orcamentistagpt/venv/bin/python3" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from rsa.cli import encrypt
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(encrypt())

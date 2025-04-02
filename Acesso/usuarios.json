@@ -1,0 +1,11 @@
+{
+    "Wellington":{"senha":"W123", "colaborador":"Wellington", "cargo":"gerente orçamentos","setor":"orçamento"},
+    "Iris":{"senha":"I123", "colaborador":"Iris", "cargo":"orçamentista", "setor":"orçamento"},
+    "Erick":{"senha":"E123", "colaborador":"Erick", "cargo":"orçamentista", "setor":"orçamento"},
+    "Renata":{"senha":"R2025", "colaborador":"Renata", "cargo":"gerente vendas", "setor":"Vendas"},
+    "Gizeli":{"senha":"G321", "colaborador":"Gizeli", "cargo":"vendas Inbound", "setor":"Vendas"},
+    "Natalia":{"senha":"N321", "colaborador":"Natalia", "cargo":"vendas", "setor":"Vendas"},
+    "Leonardo":{"senha":"L321", "colaborador":"Leonardo", "cargo":"vendas externas", "setor":"Vendas"},
+    "Dario":{"senha":"D@p2025", "colaborador":"Dario", "cargo":"CEO", "setor":"Diretoria"},
+    "externo":{"senha":"D@p2025", "colaborador":"externo", "cargo":"não definido", "setor":"outro"}
+}
