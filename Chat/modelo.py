@@ -3,7 +3,7 @@ from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 
 MODELO='gpt-4o-mini'
-API_KEY='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'
+API_KEY='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'
 
 llm=ChatOpenAI(
     model=MODELO,
